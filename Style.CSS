@@ -1,0 +1,47 @@
+#hero{
+    text-align: center;
+}
+h1{
+
+    font-family: "Dosis", sans-serif;
+  font-optical-sizing: auto;
+}
+
+h1 span{ 
+ color: blueviolet;
+}
+
+
+#hero #p{
+  font-size: 14px;
+top: 0px;
+    color: rgba(130, 130, 130, 1);
+}
+
+a {
+  margin-left: 28px;
+    color: rgba(63, 61, 86, 1);
+    
+}
+
+div #logo{
+margin: 0px auto 34px;
+margin-top: 0px;
+
+}
+
+#partebaixo{
+  position: fixed;
+  bottom: 0px;
+  right: 100px;
+  text-align: center;
+  margin:
+}
+
+#ac{
+ margin-left: 626px;
+ margin-bottom: 100px;
+ 
+}
+
+
